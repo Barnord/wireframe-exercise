@@ -1,0 +1,16 @@
+nav {
+  background-color: #595959;
+}
+
+ul {
+  display: inline;
+}
+
+li {
+  color: #808080;
+  display: inline
+}
+
+article {
+  overflow: scroll;
+}
